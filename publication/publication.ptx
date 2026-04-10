@@ -6,11 +6,16 @@
     </source>
 
     <common>
-        <!-- When writing an article for a specific journal, you can   -->
-        <!-- specify the name of the journal to get appropriate latex. -->
-        <!-- See the guide for a list of valid names:
-          https://pretextbook.org/doc/guide/html/appendix-journals.html#appendix-journals -->
-
-        <!--<journal name="ams" /> -->
     </common>
+
+    <numbering>
+        <divisions level="0"/>
+        <blocks level="0"/>
+        <footnotes level="0"/>
+        <projects level="0"/>
+        <equations level="0"/>
+    </numbering>
+    <html>
+        <tableofcontents focused="yes" preexpanded-levels="2"/>
+    </html>
 </publication>

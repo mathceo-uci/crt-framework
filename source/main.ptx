@@ -5,18 +5,21 @@
 
     <document-id>authorslastnamelowercase-ShortTitleCamelCase</document-id>
 
-    <macros>\newcommand{\foo}{b^{ar}}</macros>
     <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
   </docinfo>
 
-  <article xml:id="shorttitlelowercase">
-    <title>The title of my groundbreaking paper</title>
+  <article xml:id="math-ceo-crt-framework">
+    <title>The Math CEO Connections Framework</title>
+    <subtitle>Six Dimensions of Culturally Responsive Teaching</subtitle>
 
     <xi:include href="./frontmatter.ptx" />
-    
+
     <xi:include href="./introduction.ptx" />
-    <xi:include href="./section-1.ptx" />
-    <xi:include href="./section-2.ptx" />
+    <xi:include href="./context.ptx" />
+    <xi:include href="./dimensions-overview.ptx" />
+    <xi:include href="./dimension-1.ptx" />
+    <xi:include href="./dimension-2.ptx" />
+    <xi:include href="./dimension-3.ptx" />
   </article>
 
 </pretext>

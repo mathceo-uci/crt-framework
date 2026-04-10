@@ -2,13 +2,14 @@
 <frontmatter>
   <bibinfo>
     <author>
-      <personname>Author X. Lastname</personname>
+      <institution>UCI Math CEO, University of California, Irvine</institution>
     </author>
+    <date>2026</date>
   </bibinfo>
-  
+
   <abstract>
     <p>
-      This is the abstract.
+      A start guide to implement culturally relevant practices in after-school programs.
     </p>
   </abstract>
 </frontmatter>

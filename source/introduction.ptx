@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<introduction xml:id="intro" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <p>Some words before the first section of the paper</p>
-    <p>Some more words.</p>
-</introduction>
+<section xml:id="introduction" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Introduction</title>
+
+  <p>
+    In this document, we present a framework that can help any afterschool program in developing
+    culturally responsive teaching (CRT) in a sustained and coherent way, and that can keep track
+    of progress made in the different components that comprise CRT, at different levels. This is
+    far from a straightforward task, as it involves multiple efforts in different directions,
+    constant reflection, and aligning all efforts. We hope that this document serves as a useful
+    and practical guide to start this exciting process.
+  </p>
+
+  <p>
+    Our program began thinking about these dimensions of culturally responsive teaching to help
+    understand how to categorize the ways we were adapting the program to culturally responsive
+    practices. We wanted to develop a better knowledge of why certain practices are helpful and
+    others are less so, and ways to explain the key important ideas that can be followed at
+    different levels (leadership teams, curriculum development, training and coaching, mentoring
+    observation, and assessment). Over time, we listed practices that we found beneficial, began
+    to foster them, and saw which practices had similar goals or outcomes. This resulted in
+    constructing the 6 Dimensions, which gives a general, coherent structure for the practices
+    which we found were most impactful for students, and needed to be sustained at different levels.
+  </p>
+</section>
