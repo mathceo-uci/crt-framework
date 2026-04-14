@@ -26,7 +26,7 @@
     </paragraphs>
 
     <paragraphs>
-      <title>The fundamental goal</title>
+      <title>The main goal</title>
       <p>Personal Development &amp; Growth</p>
     </paragraphs>
 
@@ -34,6 +34,13 @@
       <title>The three contexts</title>
       <p>Program structure, Pedagogical practices, Curriculum</p>
     </paragraphs>
+
+    <figure xml:id="Diagram-Six-DimensionsCRT">
+      <image source="Diagram-Six-DimensionsCRT.png">
+        <shortdescription></shortdescription>
+      </image>
+      <caption>The six dimensions of culturally responsive teaching</caption>
+    </figure>
   </introduction>
 
   <subsection xml:id="dimensions-summary">
@@ -131,7 +138,7 @@
 
     <paragraphs>
       <title>Dimension 6: Social justice reflection</title>
-      <p>(See the Dimension 6 section for full details.)</p>
+      <p>(See <xref ref="dimension-6"/> for full details.)</p>
     </paragraphs>
 
   </subsection>

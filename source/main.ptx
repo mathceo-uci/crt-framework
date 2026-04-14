@@ -20,6 +20,13 @@
     <xi:include href="./dimension-1.ptx" />
     <xi:include href="./dimension-2.ptx" />
     <xi:include href="./dimension-3.ptx" />
+    <xi:include href="./dimension-4.ptx" />
+    <xi:include href="./dimension-5.ptx" />
+    <xi:include href="./dimension-6.ptx" />
+    <xi:include href="./fundamental-goal.ptx" />
+    <xi:include href="./three-contexts.ptx" />
+    <xi:include href="./applying-dimensions.ptx" />
+    <xi:include href="./possible-modifications.ptx" />
   </article>
 
 </pretext>

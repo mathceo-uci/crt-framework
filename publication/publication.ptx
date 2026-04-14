@@ -16,6 +16,6 @@
         <equations level="0"/>
     </numbering>
     <html>
-        <tableofcontents focused="yes" preexpanded-levels="2"/>
+        <tableofcontents focused="yes" preexpanded-levels="1"/>
     </html>
 </publication>

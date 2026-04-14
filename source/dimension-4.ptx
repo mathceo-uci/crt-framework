@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="dimension-4" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Dimension 4: Access and Relevance</title>
+
+  <introduction>
+    <p>
+      This dimension entails setting learning activities in contexts which are relevant and
+      meaningful to students, using (formal and informal) language familiar with students, and
+      adopting multiple modalities (manipulatives, diagrams, tables, pictures, and more abstract
+      representations) to help students advance their understanding. We aim for students to be
+      actively engaged using different modalities and gain ownership of them.
+    </p>
+
+    <p>
+      A key part of making relevant and engaging activities is to make the content relatable to
+      the students. One aspect of this is applicable to mathematics as a whole, that there needs
+      to be a visible connection between the abstract math concepts and the everyday reality of
+      students. This is important for students to be able to build upon their own formal and
+      informal learned experiences (funds of knowledge).
+    </p>
+
+    <p>
+      An important and critical aspect is making sure that the math situations make sense to each
+      individual student. This means that mathematical interactions should be tailored to the
+      knowledge and interests of the student. What makes sense to one student may not be useful
+      to another student so mentors must be prepared with multiple ways to introduce a problem,
+      as well as multiple tools that can lead them to understand it and, ultimately, solve it.
+      This includes using a large range of concepts, representations, and interactive components,
+      and knowing how to move between them, to make visible connections (for example, moving from
+      diagram to table, or from certain spatial manipulative to writing numerical expressions).
+    </p>
+
+    <p>
+      In many activities one objective is to introduce students to certain mathematical terms, and
+      teach them to reason based on those terms. The natural inclination is then to push students
+      to use this terminology when thinking about a problem and to be precise in their work, but
+      this can often be counterproductive. Just as we need to connect concepts to real world
+      situations for them to be relevant to students, using common language the students are
+      comfortable with is important to their understanding. After establishing their understanding
+      of the concepts they can translate to more formal language, gradually. Language can also be
+      an integral part of cultural identity, so allowing students to speak other languages or use
+      slang makes the content more relatable and shows that they are a valued part of the program
+      in whatever way they choose to participate. <q>Slang is not an obstacle for understanding,
+      but rather an advantage!</q>
+    </p>
+  </introduction>
+
+  <subsection xml:id="dim4-beliefs">
+    <title>Mentors' Beliefs and Attitudes</title>
+
+    <p>
+      <ul>
+        <li>I believe that learning is more meaningful when students connect to their experiences.</li>
+        <li>I believe that students can understand complex ideas if explained clearly.</li>
+        <li>I believe that curiosity is a powerful motivator to introduce tasks.</li>
+        <li>I believe that multiple ways of representing ideas help students discover and understand concepts deeply.</li>
+        <li>I believe that informal language opens doors to learning before introducing more formal academic terms.</li>
+        <li>I believe that students' voices, experiences, and examples enrich learning activities.</li>
+        <li>I believe that flexible tools and choices allow students to express their understanding creatively.</li>
+        <li>I believe that struggles are opportunities to give new explanations and build deeper comprehension.</li>
+        <li>I believe that humor, surprises, and unusual examples can ignite curiosity and make learning more memorable.</li>
+        <li>I believe that celebrating diverse ways of thinking and representing ideas encourages confidence and engagement.</li>
+        <li>I believe that I should help students see why what they are learning matters.</li>
+      </ul>
+    </p>
+
+    <p>Which other beliefs can shape your practice towards relevance, language, and representations?</p>
+  </subsection>
+
+  <subsection xml:id="dim4-components">
+    <title>Components</title>
+
+    <subsubsection xml:id="dim4-meaningful-tasks">
+      <title>Component 1: Meaningful Tasks</title>
+      <p>Include activities that connect to students' cultures and lives, and spark curiosity.</p>
+
+      <paragraphs>
+        <title>Mentors' Actions</title>
+        <p>
+          <ul>
+            <li>Introduce scenarios and stories that are relevant and exciting for students.</li>
+            <li>Show how concepts can relate to students' everyday lives.</li>
+            <li>Use analogies, humor, unusual visuals, or surprising controversies to spark curiosity.</li>
+            <li>Offer different ways for students to approach and make sense of the content.</li>
+            <li>Highlight a <q>why this matters</q> for each task, helping students see its purpose.</li>
+          </ul>
+        </p>
+      </paragraphs>
+
+      <paragraphs>
+        <title>Students' Perspectives</title>
+        <p>
+          <ul>
+            <li><q>I see why this topic matters.</q></li>
+            <li><q>I like when the examples are about stuff I do.</q></li>
+            <li><q>It's fun when I hear stories I can relate to.</q></li>
+            <li><q>I can see how this has to do with real life.</q></li>
+            <li><q>I like when I can give my own example.</q></li>
+          </ul>
+        </p>
+      </paragraphs>
+    </subsubsection>
+
+    <subsubsection xml:id="dim4-accessible-language">
+      <title>Component 2: Accessible Language</title>
+      <p>Explain clearly, and support diverse language and communication.</p>
+
+      <paragraphs>
+        <title>Mentors' Actions</title>
+        <p>
+          <ul>
+            <li>(Planning) Use clear, simple words and sentences to explain complex ideas.</li>
+            <li>Encourage starting with informal language and gently and gradually connect it to more formal terms.</li>
+            <li>Respect and cherish the use of different communication styles, including multiple languages, idioms and cultural gestures.</li>
+            <li>Rephrase ideas if needed, and encourage students to explain concepts in their own words.</li>
+          </ul>
+        </p>
+      </paragraphs>
+
+      <paragraphs>
+        <title>Students' Perspectives</title>
+        <p>
+          <ul>
+            <li><q>I can talk in the way I normally speak.</q></li>
+            <li><q>I like that my mentor doesn't just use confusing words without explaining.</q></li>
+            <li><q>I like that my mentor really tries to make sure that we understand things.</q></li>
+            <li><q>I feel okay asking questions because I can use my own words.</q></li>
+            <li><q>I can explain stuff in my own way and they get it.</q></li>
+            <li><q>I like that we can mix Spanish and English if we need to.</q></li>
+          </ul>
+        </p>
+      </paragraphs>
+    </subsubsection>
+
+    <subsubsection xml:id="dim4-representations">
+      <title>Component 3: Powerful Representations</title>
+      <p>Use manipulatives, visuals, and models effectively to build understanding.</p>
+
+      <paragraphs>
+        <title>Mentors' Actions</title>
+        <p>
+          <ul>
+            <li>Introduce and show examples of representations, and explicitly guide students in understanding how they work.</li>
+            <li>Help students explicitly relate different representations to understand things deeper.</li>
+            <li>(Planning) Consider the pros and cons of each representation that you plan to use, and useful progressions to use them.</li>
+          </ul>
+        </p>
+      </paragraphs>
+
+      <paragraphs>
+        <title>Students' Perspectives</title>
+        <p>
+          <ul>
+            <li><q>I understand things more when I see pictures or graphs.</q></li>
+            <li><q>I like it when we use tables, drawings, or real objects.</q></li>
+            <li><q>Seeing different ways of showing the problem helps me get it.</q></li>
+            <li><q>I like when the mentor shows how two diagrams can show the same data.</q></li>
+            <li><q>I feel like I can make more sense when I see examples.</q></li>
+          </ul>
+        </p>
+      </paragraphs>
+    </subsubsection>
+
+    <subsubsection xml:id="dim4-modalities">
+      <title>Component 4: Empower to Use Modalities Flexibly</title>
+      <p>Help students choose and adapt ways to represent ideas and systems.</p>
+
+      <paragraphs>
+        <title>Mentors' Actions</title>
+        <p>
+          <ul>
+            <li>Give differentiated scaffolds using words, visuals, or other representations.</li>
+            <li>Let students pick or adapt representations to express ideas and complete tasks.</li>
+            <li>Allow students to explain to each other using their own language and representations.</li>
+            <li>(Planning) Have alternative explanations and representations ready for students who need extra help.</li>
+            <li>Celebrate creative or unusual representations that students invent.</li>
+          </ul>
+        </p>
+      </paragraphs>
+
+      <paragraphs>
+        <title>Students' Perspectives</title>
+        <p>
+          <ul>
+            <li><q>Sometimes, I can solve problems in the way I want.</q></li>
+            <li><q>I can pick the tools or drawings that make sense to me.</q></li>
+            <li><q>I feel okay trying my own way, even if it's different.</q></li>
+            <li><q>If I get stuck, my mentor gives me new options to see what's going on.</q></li>
+            <li><q>I like that my mentor lets me explain with my own method.</q></li>
+            <li><q>I feel supported when I use my own strategies or models.</q></li>
+          </ul>
+        </p>
+      </paragraphs>
+    </subsubsection>
+
+  </subsection>
+
+</section>
