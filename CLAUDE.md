@@ -14,34 +14,27 @@ pretext view web      # preview in browser
 ## File structure
 ```
 source/
-  main.ptx                  # root file — add xi:include here for each new section
+  main.ptx                  # root file
   frontmatter.ptx
   introduction.ptx
   context.ptx
   dimensions-overview.ptx
-  dimension-1.ptx           ✓ done
-  dimension-2.ptx           ✓ done
-  dimension-3.ptx           ✓ done
-  dimension-4.ptx           (next)
-  dimension-5.ptx
-  dimension-6.ptx
-  ... (remaining sections)
+  dimension-1.ptx           ✓
+  dimension-2.ptx           ✓
+  dimension-3.ptx           ✓
+  dimension-4.ptx           ✓
+  dimension-5.ptx           ✓
+  dimension-6.ptx           ✓
+  fundamental-goal.ptx      ✓
+  three-contexts.ptx        ✓  (includes "Aligning the Three Contexts" as subsection)
+  applying-dimensions.ptx   ✓  (includes "Examples" as subsection)
+  possible-modifications.ptx ✓
 assets/                     # images live here
-html-source/                # original Google Docs HTML (source to convert from)
+html-source/                # original Google Docs HTML (source of truth)
 publication/publication.ptx # configured: external="../assets", generated="../generated-assets"
 ```
 
-## Remaining sections to convert (from HTML)
-Starting at approximately entry 536 in the parsed HTML:
-- Dimension 4: Access and Relevance
-- Dimension 5: Inclusion through Cultural Diversity
-- Dimension 6: Social Justice Reflection
-- The Fundamental Goal: Personal Development & Growth
-- The Three Contexts (Program Structure, Pedagogical Practices, Curriculum)
-- Aligning the Three Contexts
-- Applying the Dimensions
-- Examples
-- Possible Modifications to the Six Dimensions
+**Conversion is complete.** All sections have been converted from HTML and the build passes cleanly.
 
 ## PreTeXt conventions for this project
 
@@ -98,28 +91,3 @@ Each dimension follows this structure:
 </section>
 ```
 
-### Parsing the HTML
-Use this Python snippet to extract text entries from the HTML:
-```python
-python3 -c "
-from html.parser import HTMLParser
-class TextExtractor(HTMLParser):
-    def __init__(self):
-        super().__init__()
-        self.entries = []
-        self.in_body = False
-        self.current_tag = ''
-    def handle_starttag(self, tag, attrs):
-        self.current_tag = tag
-        if tag == 'body': self.in_body = True
-    def handle_data(self, data):
-        if self.in_body and data.strip():
-            self.entries.append((self.current_tag, data.strip()))
-parser = TextExtractor()
-with open('html-source/V4 - The Math CEO Connections Framework: Six Dimensions of CRT.html', encoding='utf-8') as f:
-    parser.feed(f.read())
-for i, (tag, text) in enumerate(parser.entries[START:END], start=START):
-    print(f'{i:3}. [{tag}] {text[:120]}')
-"
-```
-Dimension 4 starts around entry 536.
