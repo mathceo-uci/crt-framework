@@ -29,9 +29,9 @@ source/
   three-contexts.ptx        ✓  (includes "Aligning the Three Contexts" as subsection)
   applying-dimensions.ptx   ✓  (includes "Examples" as subsection)
   possible-modifications.ptx ✓
-assets/                     # images live here
+external/                   # images live here (maps to output/web/external)
 html-source/                # original Google Docs HTML (source of truth)
-publication/publication.ptx # configured: external="../assets", generated="../generated-assets"
+publication/publication.ptx # configured: generated="../generated-assets"
 ```
 
 **Conversion is complete.** All sections have been converted from HTML and the build passes cleanly.
@@ -39,8 +39,8 @@ publication/publication.ptx # configured: external="../assets", generated="../ge
 ## PreTeXt conventions for this project
 
 ### Images
-- Images are in `assets/` at project root
-- `publication.ptx` has `external="../assets"` configured
+- Images are in `external/` at project root
+- `main.ptx` `<docinfo>` has `<directories external="../external"/>` configured
 - Reference images by filename only: `<image source="filename.png"/>`
 
 ### Special characters

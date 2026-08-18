@@ -6,7 +6,7 @@
     <document-id>authorslastnamelowercase-ShortTitleCamelCase</document-id>
 
     <!-- directory of external images, relative to this file -->
-    <directories external="../assets"/>
+    <directories external="../external"/>
 
     <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
   </docinfo>
