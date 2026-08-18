@@ -57,7 +57,7 @@
     <paragraphs>
       <title>Dimension 1: Students at the center</title>
       <p>
-        <dl>
+        <dl width="wide">
           <li><title>1.1 Adapt to students' worlds</title>
             <p>Design and adjust activities based on students' cultures, interests, and real-time engagement.</p>
           </li>
@@ -77,7 +77,7 @@
     <paragraphs>
       <title>Dimension 2: Relationships and caring</title>
       <p>
-        <dl>
+        <dl width="wide">
           <li><title>2.1 Welcome every student</title>
             <p>Use your words and actions to create a positive, welcoming space where meaningful learning can happen.</p>
           </li>
@@ -97,7 +97,7 @@
     <paragraphs>
       <title>Dimension 3: Deep thinking</title>
       <p>
-        <dl>
+        <dl width="wide">
           <li><title>3.1 Prepare for deep ideas and connections</title>
             <p>Get ready so that activities are geared toward deep reasoning and making connections.</p>
           </li>
@@ -117,7 +117,7 @@
     <paragraphs>
       <title>Dimension 4: Access and relevance</title>
       <p>
-        <dl>
+        <dl width="wide">
           <li><title>4.1 Include meaningful tasks</title>
             <p>Present activities that connect to students' cultures and lives, and spark curiosity.</p>
           </li>
@@ -137,7 +137,7 @@
     <paragraphs>
       <title>Dimension 5: Inclusion through cultural diversity</title>
       <p>
-        <dl>
+        <dl width="wide">
           <li><title>5.1 Honor cultural identities</title>
             <p>Value who students are and where they come from, showing pride in their cultures and making their practices visible.</p>
           </li>
@@ -157,7 +157,7 @@
     <paragraphs>
       <title>Dimension 6: Social justice reflection</title>
       <p>
-        <dl>
+        <dl width="wide">
           <li><title>6.1 Cultivate empathy and awareness</title>
             <p>Help students see different perspectives through data, games, and real-world simulations.</p>
           </li>
