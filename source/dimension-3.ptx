@@ -263,14 +263,28 @@
       <figure xml:id="fig-egypt-slide1">
         <caption>Egyptian multiplication activity slide: completing the table for <m>19 \times 213</m>.</caption>
         <image source="multEgyptScreen1.png" width="80%">
-          <description>A teaching slide introducing the Egyptian multiplication method by doubling. Shows a table being completed for 19 times 213 and asks students to find other products of 213.</description>
+          <shortdescription>A teaching slide introducing Egyptian multiplication by doubling.</shortdescription>
+          <description>
+            <p>
+              A teaching slide introducing the Egyptian multiplication method by doubling. It shows
+              a table being completed for 19 times 213, and asks students to find other products
+              of 213.
+            </p>
+          </description>
         </image>
       </figure>
 
       <figure xml:id="fig-egypt-slide2">
         <caption>Visual representation of powers of 2 as nested squares, illustrating whether every positive integer is a sum of powers of 2.</caption>
         <image source="multEgyptScreen2.png" width="80%">
-          <description>A diagram showing powers of 2 (1, 2, 4, 8, 16, 32, 64, 128) arranged as nested squares, with the question: do you think that every positive integer is equal to a sum of powers of 2?</description>
+          <shortdescription>Powers of 2 from 1 to 128 arranged as nested squares.</shortdescription>
+          <description>
+            <p>
+              A diagram showing the powers of 2 (1, 2, 4, 8, 16, 32, 64, 128) arranged as nested
+              squares, with the question: do you think that every positive integer is equal to a
+              sum of powers of 2?
+            </p>
+          </description>
         </image>
       </figure>
 
@@ -371,13 +385,14 @@
           <ul>
             <li>Analogies between the decimal system and the binary system.</li>
             <li>Use of fingers to express binary numbers in a fast and playful way, by matching fingers to powers of 2 in a specific order.</li>
-            <li>A <q>binary mat</q> that helps represent numbers as sums of powers of two, where students can place tokens in <q>active</q> powers of 2 that are used in the sum. This manipulative allows us to reason inductively about sums of powers of 2, and to make sense of the more abstract binary representation.
-            <figure xml:id="fig-decomposition">
-              <caption>Decomposing a number as a sum of powers of 2.</caption>
-              <image source="decomposition.png" width="60%">
-                <description>A visual showing a large square equal to the sum of six smaller squares labeled 1, 2, 4, 8, 16, and 32.</description>
-              </image>
-            </figure>
+            <li>
+              <p>A <q>binary mat</q> that helps represent numbers as sums of powers of two, where students can place tokens in <q>active</q> powers of 2 that are used in the sum. This manipulative allows us to reason inductively about sums of powers of 2, and to make sense of the more abstract binary representation.</p>
+              <figure xml:id="fig-decomposition">
+                <caption>Decomposing a number as a sum of powers of 2.</caption>
+                <image source="decomposition.png" width="60%">
+                  <shortdescription>A visual showing a large square equal to the sum of six smaller squares labeled 1, 2, 4, 8, 16, and 32.</shortdescription>
+                </image>
+              </figure>
             </li>
             <li>An analogy to money: we have weird bills, one of each: $1, $2, $4, $8, $16, <ellipsis/>, $128. Then we can buy anything costing an integer value and we don't need change! (Ask to check that students see that we can buy things up to $255.)</li>
           </ul>

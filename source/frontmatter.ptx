@@ -2,10 +2,15 @@
 <frontmatter>
   <bibinfo>
     <author>
-      <institution>UCI Math CEO, University of California, Irvine</institution>
+      <personname>UCI Math CEO</personname>
+      <institution>University of California, Irvine</institution>
     </author>
     <date>2026</date>
   </bibinfo>
+
+  <titlepage>
+    <titlepage-items/>
+  </titlepage>
 
   <abstract>
     <p>
