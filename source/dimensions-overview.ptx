@@ -54,125 +54,122 @@
   <subsection xml:id="dimensions-summary">
     <title>Overview of the Six Dimensions</title>
 
-    <paragraphs>
-      <title>Dimension 1: Students at the center</title>
-      <p>
-        <dl width="wide">
-          <li><title>1.1 Adapt to students' worlds</title>
-            <p>Design and adjust activities based on students' cultures, interests, and real-time engagement.</p>
-          </li>
-          <li><title>1.2 Guide learning continuously</title>
-            <p>Anticipate, observe, question, and support students to address needs and advance understanding.</p>
-          </li>
-          <li><title>1.3 Foster students' interactions</title>
-            <p>Foster collaboration as students move from individual thinking to sharing and reasoning together.</p>
-          </li>
-          <li><title>1.4 Integrate concepts and contexts</title>
-            <p>Link student ideas, previous understanding, and different contexts to consolidate the learning goals.</p>
-          </li>
-        </dl>
-      </p>
-    </paragraphs>
-
-    <paragraphs>
-      <title>Dimension 2: Relationships and caring</title>
-      <p>
-        <dl width="wide">
-          <li><title>2.1 Welcome every student</title>
-            <p>Use your words and actions to create a positive, welcoming space where meaningful learning can happen.</p>
-          </li>
-          <li><title>2.2 Find ways to connect</title>
-            <p>Encourage meaningful and constant two-way exchanges with students.</p>
-          </li>
-          <li><title>2.3 Build confidence and trust</title>
-            <p>Help students trust themselves, you, and the learning process.</p>
-          </li>
-          <li><title>2.4 Be a role model</title>
-            <p>Show students how to approach challenges, think critically, and behave in a responsible way.</p>
-          </li>
-        </dl>
-      </p>
-    </paragraphs>
-
-    <paragraphs>
-      <title>Dimension 3: Deep thinking</title>
-      <p>
-        <dl width="wide">
-          <li><title>3.1 Prepare for deep ideas and connections</title>
-            <p>Get ready so that activities are geared toward deep reasoning and making connections.</p>
-          </li>
-          <li><title>3.2 Pave the way for deep thinking</title>
-            <p>Create a learning environment to encourage students to reason, notice patterns, and connect thinking.</p>
-          </li>
-          <li><title>3.3 Support reasoning strategically</title>
-            <p>Help students clarify their thinking, scaffold their reasoning, and overcome conceptual challenges.</p>
-          </li>
-          <li><title>3.4 Guide through challenges</title>
-            <p>Encourage persistence, resilience, and productive struggle in problem-solving.</p>
-          </li>
-        </dl>
-      </p>
-    </paragraphs>
-
-    <paragraphs>
-      <title>Dimension 4: Access and relevance</title>
-      <p>
-        <dl width="wide">
-          <li><title>4.1 Include meaningful tasks</title>
-            <p>Present activities that connect to students' cultures and lives, and spark curiosity.</p>
-          </li>
-          <li><title>4.2 Use accessible language</title>
-            <p>Explain clearly, and allow diverse language and communication.</p>
-          </li>
-          <li><title>4.3 Introduce powerful representations</title>
-            <p>Use manipulatives, visuals, and models effectively to build understanding.</p>
-          </li>
-          <li><title>4.4 Use modalities flexibly</title>
-            <p>Help students choose and adapt ways to represent ideas and systems.</p>
-          </li>
-        </dl>
-      </p>
-    </paragraphs>
-
-    <paragraphs>
-      <title>Dimension 5: Inclusion through cultural diversity</title>
-      <p>
-        <dl width="wide">
-          <li><title>5.1 Honor cultural identities</title>
-            <p>Value who students are and where they come from, showing pride in their cultures and making their practices visible.</p>
-          </li>
-          <li><title>5.2 Tie content with culture</title>
-            <p>Intentionally connect teaching content to cultural experiences, world scenarios, and diverse perspectives.</p>
-          </li>
-          <li><title>5.3 Implement inclusive practices</title>
-            <p>Design learning spaces and activities where all voices, traditions, and cultural ways of learning feel welcome.</p>
-          </li>
-          <li><title>5.4 Promote respect and critical awareness</title>
-            <p>Guide students beyond their comfort zones to explore unfamiliar cultures, discuss differences respectfully, and challenge stereotypes.</p>
-          </li>
-        </dl>
-      </p>
-    </paragraphs>
-
-    <paragraphs>
-      <title>Dimension 6: Social justice reflection</title>
-      <p>
-        <dl width="wide">
-          <li><title>6.1 Cultivate empathy and awareness</title>
-            <p>Help students see different perspectives through data, games, and real-world simulations.</p>
-          </li>
-          <li><title>6.2 Examine fairness and justice</title>
-            <p>Guide students to spot systemic inequity and use math to explore what fairness looks like in real life.</p>
-          </li>
-          <li><title>6.3 Connect math to real-world impact</title>
-            <p>Use math modeling to analyze inequalities and drive practical solutions.</p>
-          </li>
-          <li><title>6.4 Inspire agency toward change</title>
-            <p>Empower students to use math insights to advocate for community solutions and drive meaningful change.</p>
-          </li>
-        </dl>
-      </p>
-    </paragraphs>
+    <p>
+      <dl>
+        <li><title>Dimension 1</title>
+          <p>Students at the center</p>
+            <ul>
+              <li><title>1.1. Adapt to students' worlds</title>
+                <p>Design and adjust activities based on students' cultures, interests, and real-time engagement.</p>
+              </li>
+              <li><title>1.2. Guide learning continuously</title>
+                <p>Anticipate, observe, question, and support students to address needs and advance understanding.</p>
+              </li>
+              <li><title>1.3. Foster students' interactions</title>
+                <p>Foster collaboration as students move from individual thinking to sharing and reasoning together.</p>
+              </li>
+              <li><title>1.4. Integrate concepts and contexts</title>
+                <p>Link student ideas, previous understanding, and different contexts to consolidate the learning goals.</p>
+              </li>
+            </ul>
+        </li>
+        <li><title>Dimension 2</title>
+          <p>Relationships and caring</p>
+          
+            <ul>
+              <li><title>2.1. Welcome every student</title>
+                <p>Use your words and actions to create a positive, welcoming space where meaningful learning can happen.</p>
+              </li>
+              <li><title>2.2. Find ways to connect</title>
+                <p>Encourage meaningful and constant two-way exchanges with students.</p>
+              </li>
+              <li><title>2.3. Build confidence and trust</title>
+                <p>Help students trust themselves, you, and the learning process.</p>
+              </li>
+              <li><title>2.4. Be a role model</title>
+                <p>Show students how to approach challenges, think critically, and behave in a responsible way.</p>
+              </li>
+            </ul>
+  
+        </li>
+        <li><title>Dimension 3</title>
+          <p>Deep thinking</p>
+          
+            <ul>
+              <li><title>3.1. Prepare for deep ideas and connections</title>
+                <p>Get ready so that activities are geared toward deep reasoning and making connections.</p>
+              </li>
+              <li><title>3.2. Pave the way for deep thinking</title>
+                <p>Create a learning environment to encourage students to reason, notice patterns, and connect thinking.</p>
+              </li>
+              <li><title>3.3. Support reasoning strategically</title>
+                <p>Help students clarify their thinking, scaffold their reasoning, and overcome conceptual challenges.</p>
+              </li>
+              <li><title>3.4. Guide through challenges</title>
+                <p>Encourage persistence, resilience, and productive struggle in problem-solving.</p>
+              </li>
+            </ul>
+          
+        </li>
+        <li><title>Dimension 4</title>
+          <p>Access and relevance</p>
+          
+            <ul>
+              <li><title>4.1. Include meaningful tasks</title>
+                <p>Present activities that connect to students' cultures and lives, and spark curiosity.</p>
+              </li>
+              <li><title>4.2. Use accessible language</title>
+                <p>Explain clearly, and allow diverse language and communication.</p>
+              </li>
+              <li><title>4.3. Introduce powerful representations</title>
+                <p>Use manipulatives, visuals, and models effectively to build understanding.</p>
+              </li>
+              <li><title>4.4. Use modalities flexibly</title>
+                <p>Help students choose and adapt ways to represent ideas and systems.</p>
+              </li>
+            </ul>
+          
+        </li>
+        <li><title>Dimension 5</title>
+          <p>Inclusion through cultural diversity</p>
+          
+            <ul>
+              <li><title>5.1. Honor cultural identities</title>
+                <p>Value who students are and where they come from, showing pride in their cultures and making their practices visible.</p>
+              </li>
+              <li><title>5.2. Tie content with culture</title>
+                <p>Intentionally connect teaching content to cultural experiences, world scenarios, and diverse perspectives.</p>
+              </li>
+              <li><title>5.3. Implement inclusive practices</title>
+                <p>Design learning spaces and activities where all voices, traditions, and cultural ways of learning feel welcome.</p>
+              </li>
+              <li><title>5.4. Promote respect and critical awareness</title>
+                <p>Guide students beyond their comfort zones to explore unfamiliar cultures, discuss differences respectfully, and challenge stereotypes.</p>
+              </li>
+            </ul>
+          
+        </li>
+        <li><title>Dimension 6</title>
+          <p>Social justice reflection</p>
+          
+            <ul>
+              <li><title>6.1. Cultivate empathy and awareness</title>
+                <p>Help students see different perspectives through data, games, and real-world simulations.</p>
+              </li>
+              <li><title>6.2. Examine fairness and justice</title>
+                <p>Guide students to spot systemic inequity and use math to explore what fairness looks like in real life.</p>
+              </li>
+              <li><title>6.3. Connect math to real-world impact</title>
+                <p>Use math modeling to analyze inequalities and drive practical solutions.</p>
+              </li>
+              <li><title>6.4. Inspire agency toward change</title>
+                <p>Empower students to use math insights to advocate for community solutions and drive meaningful change.</p>
+              </li>
+            </ul>
+          
+        </li>
+      </dl>
+    </p>
   </subsection>
 
 </section>
