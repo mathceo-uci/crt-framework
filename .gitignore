@@ -1,5 +1,6 @@
 /output
 /.cache
+/logs
 .DS_Store
 *.log
 .vscode/settings.json
