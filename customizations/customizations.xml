@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Single source of truth for dimension and component names.
+     Referenced from source files as <custom ref="dimN-name"/> and
+     <custom ref="dimN-compM"/>.  Wired up in publication.ptx via
+     source/@customizations in publication.ptx (path is relative to source/main.ptx). -->
+<customizations>
+  <custom name="dim1-name">Students at the center</custom>
+  <custom name="dim1-comp1-name">Adapt to students' worlds</custom>
+  <custom name="dim1-comp1-desc">Design and adjust activities based on students' cultures, interests, and real-time engagement.</custom>
+  <custom name="dim1-comp2-name">Guide learning continuously</custom>
+  <custom name="dim1-comp2-desc">Anticipate, observe, question, and support students to address needs and advance understanding.</custom>
+  <custom name="dim1-comp3-name">Foster students' interactions</custom>
+  <custom name="dim1-comp3-desc">Foster collaboration as students move from individual thinking to sharing and reasoning together.</custom>
+  <custom name="dim1-comp4-name">Integrate concepts and contexts</custom>
+  <custom name="dim1-comp4-desc">Link student ideas, previous understanding, and different contexts to consolidate the learning goals.</custom>
+
+  <custom name="dim2-name">Relationships and caring</custom>
+  <custom name="dim2-comp1-name">Welcome every student</custom>
+  <custom name="dim2-comp1-desc">Use your words and actions to create a positive, welcoming space where meaningful learning can happen.</custom>
+  <custom name="dim2-comp2-name">Find ways to connect</custom>
+  <custom name="dim2-comp2-desc">Encourage meaningful and constant two-way exchanges with students.</custom>
+  <custom name="dim2-comp3-name">Build confidence and trust</custom>
+  <custom name="dim2-comp3-desc">Help students trust themselves, you, and the learning process.</custom>
+  <custom name="dim2-comp4-name">Be a role model</custom>
+  <custom name="dim2-comp4-desc">Show students how to approach challenges, think critically, and behave in a responsible way.</custom>
+
+  <custom name="dim3-name">Deep thinking</custom>
+  <custom name="dim3-comp1-name">Prepare for deep ideas and connections</custom>
+  <custom name="dim3-comp1-desc">Get ready so that activities are geared toward deep reasoning and making connections.</custom>
+  <custom name="dim3-comp2-name">Pave the way for deep thinking</custom>
+  <custom name="dim3-comp2-desc">Create a learning environment to encourage students to reason, notice patterns, and connect thinking.</custom>
+  <custom name="dim3-comp3-name">Support reasoning strategically</custom>
+  <custom name="dim3-comp3-desc">Help students clarify their thinking, scaffold their reasoning, and overcome conceptual challenges.</custom>
+  <custom name="dim3-comp4-name">Guide through challenges</custom>
+  <custom name="dim3-comp4-desc">Encourage persistence, resilience, and productive struggle in problem-solving.</custom>
+
+  <custom name="dim4-name">Access and relevance</custom>
+  <custom name="dim4-comp1-name">Include meaningful tasks</custom>
+  <custom name="dim4-comp1-desc">Present activities that connect to students' cultures and lives, and spark curiosity.</custom>
+  <custom name="dim4-comp2-name">Use accessible language</custom>
+  <custom name="dim4-comp2-desc">Explain clearly, and allow diverse language and communication.</custom>
+  <custom name="dim4-comp3-name">Introduce powerful representations</custom>
+  <custom name="dim4-comp3-desc">Use manipulatives, visuals, and models effectively to build understanding.</custom>
+  <custom name="dim4-comp4-name">Use modalities flexibly</custom>
+  <custom name="dim4-comp4-desc">Help students choose and adapt ways to represent ideas and systems.</custom>
+
+  <custom name="dim5-name">Inclusion through cultural diversity</custom>
+  <custom name="dim5-comp1-name">Honor cultural identities</custom>
+  <custom name="dim5-comp1-desc">Value who students are and where they come from, showing pride in their cultures and making their practices visible.</custom>
+  <custom name="dim5-comp2-name">Tie content with culture</custom>
+  <custom name="dim5-comp2-desc">Intentionally connect teaching content to cultural experiences, world scenarios, and diverse perspectives.</custom>
+  <custom name="dim5-comp3-name">Implement inclusive practices</custom>
+  <custom name="dim5-comp3-desc">Design learning spaces and activities where all voices, traditions, and cultural ways of learning feel welcome.</custom>
+  <custom name="dim5-comp4-name">Promote respect and critical awareness</custom>
+  <custom name="dim5-comp4-desc">Guide students beyond their comfort zones to explore unfamiliar cultures, discuss differences respectfully, and challenge stereotypes.</custom>
+
+  <custom name="dim6-name">Social justice reflection</custom>
+  <custom name="dim6-comp1-name">Cultivate empathy and awareness</custom>
+  <custom name="dim6-comp1-desc">Help students see different perspectives through data, games, and real-world simulations.</custom>
+  <custom name="dim6-comp2-name">Examine fairness and justice</custom>
+  <custom name="dim6-comp2-desc">Guide students to spot systemic inequity and use math to explore what fairness looks like in real life.</custom>
+  <custom name="dim6-comp3-name">Connect math to real-world impact</custom>
+  <custom name="dim6-comp3-desc">Use math modeling to analyze inequalities and drive practical solutions.</custom>
+  <custom name="dim6-comp4-name">Inspire agency toward change</custom>
+  <custom name="dim6-comp4-desc">Empower students to use math insights to advocate for community solutions and drive meaningful change.</custom>
+</customizations>

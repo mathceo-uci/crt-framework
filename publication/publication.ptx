@@ -2,7 +2,7 @@
 <publication>
     <!-- directories are relative to the main source PreTeXt file -->
     <!-- the external directory is declared in main.ptx "docinfo" -->
-    <source>
+    <source customizations="../customizations/customizations.xml">
         <directories generated="../generated-assets"/>
     </source>
 

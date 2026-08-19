@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <section xml:id="dimension-3" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Dimension 3: Deep Thinking</title>
+  <title>Dimension 3: <custom ref="dim3-name"/></title>
 
   <introduction>
     <p>
@@ -58,8 +58,8 @@
     <title>Components</title>
 
     <subsubsection xml:id="dim3-prepare">
-      <title>Component 1: Prepare for Deep Content and Relational Structures</title>
-      <p>Get ready so that activities are geared toward deep reasoning.</p>
+      <title>Component 1: <custom ref="dim3-comp1-name"/></title>
+      <p><custom ref="dim3-comp1-desc"/></p>
 
       <paragraphs>
         <title>Mentors' Actions</title>
@@ -89,8 +89,8 @@
     </subsubsection>
 
     <subsubsection xml:id="dim3-pave">
-      <title>Component 2: Pave the Way for Deep Thinking</title>
-      <p>Create a learning environment to encourage students to reason, notice patterns, and connect ideas.</p>
+      <title>Component 2: <custom ref="dim3-comp2-name"/></title>
+      <p><custom ref="dim3-comp2-desc"/></p>
 
       <paragraphs>
         <title>Mentors' Actions</title>
@@ -123,8 +123,8 @@
     </subsubsection>
 
     <subsubsection xml:id="dim3-support">
-      <title>Component 3: Support Students' Attempts at Reasoning</title>
-      <p>Help students clarify their thinking, scaffold their reasoning, and overcome conceptual challenges.</p>
+      <title>Component 3: <custom ref="dim3-comp3-name"/></title>
+      <p><custom ref="dim3-comp3-desc"/></p>
 
       <paragraphs>
         <title>Mentors' Actions</title>
@@ -156,8 +156,8 @@
     </subsubsection>
 
     <subsubsection xml:id="dim3-guide">
-      <title>Component 4: Guide Students Through Challenges</title>
-      <p>Encourage persistence, resilience, and productive struggle in problem-solving.</p>
+      <title>Component 4: <custom ref="dim3-comp4-name"/></title>
+      <p><custom ref="dim3-comp4-desc"/></p>
 
       <paragraphs>
         <title>Mentors' Actions</title>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <section xml:id="dimension-2" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Dimension 2: Interpersonal Relationships and Well-Being</title>
+  <title>Dimension 2: <custom ref="dim2-name"/></title>
 
   <introduction>
     <p>
@@ -56,11 +56,8 @@
     <title>Components</title>
 
     <subsubsection xml:id="dim2-welcome">
-      <title>Component 1: Welcome Students</title>
-      <p>
-        Use your words and actions to create a positive, welcoming space where meaningful
-        learning can happen.
-      </p>
+      <title>Component 1: <custom ref="dim2-comp1-name"/></title>
+      <p><custom ref="dim2-comp1-desc"/></p>
 
       <paragraphs>
         <title>Mentors' Actions</title>
@@ -99,10 +96,8 @@
     </subsubsection>
 
     <subsubsection xml:id="dim2-connect">
-      <title>Component 2: Find Ways to Connect</title>
-      <p>
-        Actions that encourage meaningful, two-way exchanges with students.
-      </p>
+      <title>Component 2: <custom ref="dim2-comp2-name"/></title>
+      <p><custom ref="dim2-comp2-desc"/></p>
 
       <paragraphs>
         <title>Mentors' Actions</title>
@@ -134,10 +129,8 @@
     </subsubsection>
 
     <subsubsection xml:id="dim2-confidence">
-      <title>Component 3: Build Confidence and Trust</title>
-      <p>
-        Help students trust themselves, you, and the learning process.
-      </p>
+      <title>Component 3: <custom ref="dim2-comp3-name"/></title>
+      <p><custom ref="dim2-comp3-desc"/></p>
 
       <paragraphs>
         <title>Mentors' Actions</title>
@@ -173,10 +166,8 @@
     </subsubsection>
 
     <subsubsection xml:id="dim2-role-model">
-      <title>Component 4: Be a Role Model</title>
-      <p>
-        Show students how to approach challenges, think critically, and behave in a responsible way.
-      </p>
+      <title>Component 4: <custom ref="dim2-comp4-name"/></title>
+      <p><custom ref="dim2-comp4-desc"/></p>
 
       <paragraphs>
         <title>Mentors' Actions</title>

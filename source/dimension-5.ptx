@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <section xml:id="dimension-5" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Dimension 5: Inclusion through Cultural Diversity</title>
+  <title>Dimension 5: <custom ref="dim5-name"/></title>
 
   <introduction>
     <p>
@@ -65,11 +65,8 @@
     <title>Components</title>
 
     <subsubsection xml:id="dim5-cultural-identities">
-      <title>Component 1: Cultural Identities</title>
-      <p>
-        Value who students are and where they come from, showing pride in their cultures and
-        making their practices visible.
-      </p>
+      <title>Component 1: <custom ref="dim5-comp1-name"/></title>
+      <p><custom ref="dim5-comp1-desc"/></p>
 
       <paragraphs>
         <title>Mentors' Actions</title>
@@ -86,11 +83,8 @@
     </subsubsection>
 
     <subsubsection xml:id="dim5-content-culture">
-      <title>Component 2: Content Linked with Culture</title>
-      <p>
-        Intentionally connect teaching content to cultural experiences, world scenarios, and
-        diverse perspectives.
-      </p>
+      <title>Component 2: <custom ref="dim5-comp2-name"/></title>
+      <p><custom ref="dim5-comp2-desc"/></p>
 
       <paragraphs>
         <title>Mentors' Actions</title>
@@ -106,11 +100,8 @@
     </subsubsection>
 
     <subsubsection xml:id="dim5-inclusive-practices">
-      <title>Component 3: Inclusive Practices</title>
-      <p>
-        Design learning spaces and activities where all voices, traditions, and cultural ways of
-        learning feel welcome.
-      </p>
+      <title>Component 3: <custom ref="dim5-comp3-name"/></title>
+      <p><custom ref="dim5-comp3-desc"/></p>
 
       <paragraphs>
         <title>Mentors' Actions</title>
@@ -128,11 +119,8 @@
     </subsubsection>
 
     <subsubsection xml:id="dim5-respect">
-      <title>Component 4: Respect &amp; Critical Awareness</title>
-      <p>
-        Guide students to explore unfamiliar cultures out of their comfort zone, discuss
-        differences respectfully, and challenge stereotypes humbly, with curiosity and care.
-      </p>
+      <title>Component 4: <custom ref="dim5-comp4-name"/></title>
+      <p><custom ref="dim5-comp4-desc"/></p>
 
       <paragraphs>
         <title>Mentors' Actions</title>
