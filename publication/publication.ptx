@@ -18,5 +18,6 @@
     </numbering>
     <html>
         <tableofcontents focused="yes" preexpanded-levels="1"/>
+        <brandlogo source="logo-mathceo_smallest.png" url="https://sites.ps.uci.edu/mathceo/"/>
     </html>
 </publication>
