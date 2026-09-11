@@ -77,15 +77,14 @@ Each dimension follows this structure:
     <title>Mentors' Beliefs and Attitudes</title>
     <!-- belief list + reflection question -->
   </subsection>
-  <subsection xml:id="dimN-components">
-    <title>Components</title>
-    <subsubsection xml:id="dimN-[name]">
-      <title>Component X: [Name]</title>
-      <!-- one-liner description -->
-      <paragraphs><title>Mentors' Actions</title>...</paragraphs>
-      <paragraphs><title>Students' Perspectives</title>...</paragraphs>
-      <!-- Note: Dim 1 Component 2 uses "Students' Interactions" not "Students' Perspectives" -->
-    </subsubsection>
+  <!-- The "Components" wrapper subsection is commented out; each component is a
+       direct <subsection> so components render at the same level as beliefs/activity. -->
+  <subsection xml:id="dimN-[name]">
+    <title>Component X: [Name]</title>
+    <!-- one-liner description -->
+    <paragraphs><title>Mentors' Actions</title>...</paragraphs>
+    <paragraphs><title>Students' Perspectives</title>...</paragraphs>
+    <!-- Note: Dim 1 Component 2 uses "Students' Interactions" not "Students' Perspectives" -->
   </subsection>
   <!-- Optional: activity, table, case study, suggested reading subsections -->
 </section>

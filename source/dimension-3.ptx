@@ -54,10 +54,7 @@
     <p>Which other beliefs can shape your practice towards a teaching that promotes deep thinking?</p>
   </subsection>
 
-  <subsection xml:id="dim3-components">
-    <title>Components</title>
-
-    <subsubsection xml:id="dim3-prepare">
+    <subsection xml:id="dim3-prepare">
       <title>Component 1: <custom ref="dim3-comp1-name"/></title>
       <p><custom ref="dim3-comp1-desc"/></p>
 
@@ -86,9 +83,9 @@
           </ul>
         </p>
       </paragraphs>
-    </subsubsection>
+    </subsection>
 
-    <subsubsection xml:id="dim3-pave">
+    <subsection xml:id="dim3-pave">
       <title>Component 2: <custom ref="dim3-comp2-name"/></title>
       <p><custom ref="dim3-comp2-desc"/></p>
 
@@ -120,9 +117,9 @@
           </ul>
         </p>
       </paragraphs>
-    </subsubsection>
+    </subsection>
 
-    <subsubsection xml:id="dim3-support">
+    <subsection xml:id="dim3-support">
       <title>Component 3: <custom ref="dim3-comp3-name"/></title>
       <p><custom ref="dim3-comp3-desc"/></p>
 
@@ -153,9 +150,9 @@
           </ul>
         </p>
       </paragraphs>
-    </subsubsection>
+    </subsection>
 
-    <subsubsection xml:id="dim3-guide">
+    <subsection xml:id="dim3-guide">
       <title>Component 4: <custom ref="dim3-comp4-name"/></title>
       <p><custom ref="dim3-comp4-desc"/></p>
 
@@ -184,9 +181,7 @@
           </ul>
         </p>
       </paragraphs>
-    </subsubsection>
-
-  </subsection>
+    </subsection>
 
   <subsection xml:id="dim3-subject-actions">
     <title>Specific Actions by Subject Area</title>

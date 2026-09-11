@@ -52,10 +52,7 @@
     <p>Which other beliefs can shape your practice towards a student-centered teaching?</p>
   </subsection>
 
-  <subsection xml:id="dim1-components">
-    <title>Components</title>
-
-    <subsubsection xml:id="dim1-adaptability">
+    <subsection xml:id="dim1-adaptability">
       <title>Component 1: <custom ref="dim1-comp1-name"/></title>
       <p><custom ref="dim1-comp1-desc"/></p>
 
@@ -88,9 +85,9 @@
           </ul>
         </p>
       </paragraphs>
-    </subsubsection>
+    </subsection>
 
-    <subsubsection xml:id="dim1-ongoing-guidance">
+    <subsection xml:id="dim1-ongoing-guidance">
       <title>Component 2: <custom ref="dim1-comp2-name"/></title>
       <p><custom ref="dim1-comp2-desc"/></p>
 
@@ -125,9 +122,9 @@
           </ul>
         </p>
       </paragraphs>
-    </subsubsection>
+    </subsection>
 
-    <subsubsection xml:id="dim1-interactions">
+    <subsection xml:id="dim1-interactions">
       <title>Component 3: <custom ref="dim1-comp3-name"/></title>
       <p><custom ref="dim1-comp3-desc"/></p>
 
@@ -160,9 +157,9 @@
           </ul>
         </p>
       </paragraphs>
-    </subsubsection>
+    </subsection>
 
-    <subsubsection xml:id="dim1-connections">
+    <subsection xml:id="dim1-connections">
       <title>Component 4: <custom ref="dim1-comp4-name"/></title>
       <p><custom ref="dim1-comp4-desc"/></p>
 
@@ -194,9 +191,7 @@
           </ul>
         </p>
       </paragraphs>
-    </subsubsection>
-
-  </subsection>
+    </subsection>
 
   <subsection xml:id="dim1-activity">
     <title>Activity: Identifying Teaching Profiles</title>

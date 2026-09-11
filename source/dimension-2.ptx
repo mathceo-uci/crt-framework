@@ -52,10 +52,7 @@
     <p>Which other beliefs can shape your practice towards a teaching that is based on relationships?</p>
   </subsection>
 
-  <subsection xml:id="dim2-components">
-    <title>Components</title>
-
-    <subsubsection xml:id="dim2-welcome">
+    <subsection xml:id="dim2-welcome">
       <title>Component 1: <custom ref="dim2-comp1-name"/></title>
       <p><custom ref="dim2-comp1-desc"/></p>
 
@@ -93,9 +90,9 @@
           </ul>
         </p>
       </paragraphs>
-    </subsubsection>
+    </subsection>
 
-    <subsubsection xml:id="dim2-connect">
+    <subsection xml:id="dim2-connect">
       <title>Component 2: <custom ref="dim2-comp2-name"/></title>
       <p><custom ref="dim2-comp2-desc"/></p>
 
@@ -126,9 +123,9 @@
           </ul>
         </p>
       </paragraphs>
-    </subsubsection>
+    </subsection>
 
-    <subsubsection xml:id="dim2-confidence">
+    <subsection xml:id="dim2-confidence">
       <title>Component 3: <custom ref="dim2-comp3-name"/></title>
       <p><custom ref="dim2-comp3-desc"/></p>
 
@@ -163,9 +160,9 @@
           </ul>
         </p>
       </paragraphs>
-    </subsubsection>
+    </subsection>
 
-    <subsubsection xml:id="dim2-role-model">
+    <subsection xml:id="dim2-role-model">
       <title>Component 4: <custom ref="dim2-comp4-name"/></title>
       <p><custom ref="dim2-comp4-desc"/></p>
 
@@ -198,9 +195,7 @@
           </ul>
         </p>
       </paragraphs>
-    </subsubsection>
-
-  </subsection>
+    </subsection>
 
   <subsection xml:id="dim2-warm-talk">
     <title>Warm &amp; Balanced Talk: 10 Things To Try!</title>
