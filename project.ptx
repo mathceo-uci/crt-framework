@@ -6,7 +6,10 @@
 <project ptx-version="2">
   <targets>
     <target name="web" format="html" />
-    <target name="print" format="pdf" />
+    <target name="print" format="pdf">
+      <!-- Larger gap between description-list items (e.g. dimensions overview) -->
+      <stringparams latex.preamble.late="\tcbset{dlistyle/.append style={after skip=3ex}}" />
+    </target>
   </targets>
 </project>
 
