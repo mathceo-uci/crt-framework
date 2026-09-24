@@ -201,60 +201,60 @@
     <title>Warm &amp; Balanced Talk: 10 Things To Try!</title>
 
     <tabular halign="left" top="minor" bottom="minor" left="minor" right="minor">
-      <col width="45%"/>
-      <col width="55%"/>
+      <col width="40%"/>
+      <col width="50%"/>
       <row header="yes" bottom="medium">
-        <cell>Avoid...</cell>
-        <cell>Try Instead</cell>
+        <cell><p>Avoid...</p></cell>
+        <cell><p>Try Instead</p></cell>
       </row>
       <row>
-        <cell>Mostly say <q>I will...</q> and <q>You will...</q>, thinking that students need to
-        be taught without their input.</cell>
-        <cell>Often say <q>We can...</q> <mdash/> think of mentors and students as a team with
-        <q>horizontal</q> interactions.</cell>
+        <cell><p>Mostly say <q>I will...</q> and <q>You will...</q>, thinking that students need to
+        be taught without their input.</p></cell>
+        <cell><p>Often say <q>We can...</q> <mdash/> think of mentors and students as a team with
+        <q>horizontal</q> interactions.</p></cell>
       </row>
       <row>
-        <cell>Not saying mentors' or students' names.</cell>
-        <cell>Always use names during conversation. (Tip: don't be afraid of asking for names
-        again!)</cell>
+        <cell><p>Not saying mentors' or students' names.</p></cell>
+        <cell><p>Always use names during conversation. (Tip: don't be afraid of asking for names
+        again!)</p></cell>
       </row>
       <row>
-        <cell>Having long periods (10+ seconds) of awkward silence where people are
-        confused.</cell>
-        <cell>Keep it dynamic: everyone talks! Ask questions, rephrase. Use silence with a
-        purpose (like think time).</cell>
+        <cell><p>Having long periods (10+ seconds) of awkward silence where people are
+        confused.</p></cell>
+        <cell><p>Keep it dynamic: everyone talks! Ask questions, rephrase. Use silence with a
+        purpose (like think time).</p></cell>
       </row>
       <row>
-        <cell>Having a weak or no reaction to a student's idea.</cell>
-        <cell>React strongly to ideas (show excitement, confusion, curiosity, build on it,
-        etc.). (Tip: don't always have the same reaction.)</cell>
+        <cell><p>Having a weak or no reaction to a student's idea.</p></cell>
+        <cell><p>React strongly to ideas (show excitement, confusion, curiosity, build on it,
+        etc.). (Tip: don't always have the same reaction.)</p></cell>
       </row>
       <row>
-        <cell>Acknowledging a student's idea without saying their name.</cell>
-        <cell>Acknowledge both the idea and the student who shared it.</cell>
+        <cell><p>Acknowledging a student's idea without saying their name.</p></cell>
+        <cell><p>Acknowledge both the idea and the student who shared it.</p></cell>
       </row>
       <row>
-        <cell>Talking for a long time without checking if others are engaged.</cell>
-        <cell>Invite peers to <q>interrupt</q> or add to what you're saying. Ask mentors
-        directly to join in.</cell>
+        <cell><p>Talking for a long time without checking if others are engaged.</p></cell>
+        <cell><p>Invite peers to <q>interrupt</q> or add to what you're saying. Ask mentors
+        directly to join in.</p></cell>
       </row>
       <row>
-        <cell>Always asking questions only to <q>the students</q> as a group.</cell>
-        <cell>Keep it fresh: ask all teammates, all mentors, a pair of students, or specific
-        people.</cell>
+        <cell><p>Always asking questions only to <q>the students</q> as a group.</p></cell>
+        <cell><p>Keep it fresh: ask all teammates, all mentors, a pair of students, or specific
+        people.</p></cell>
       </row>
       <row>
-        <cell>Never interrupt or add to what other mentors say.</cell>
-        <cell>Respectfully interrupt teammates, adding energy and showing excitement.</cell>
+        <cell><p>Never interrupt or add to what other mentors say.</p></cell>
+        <cell><p>Respectfully interrupt teammates, adding energy and showing excitement.</p></cell>
       </row>
       <row>
-        <cell>Letting only one or two voices dominate.</cell>
-        <cell>Actively invite quieter students to share (doesn't have to be orally), and create
-        space for everyone's input.</cell>
+        <cell><p>Letting only one or two voices dominate.</p></cell>
+        <cell><p>Actively invite quieter students to share (doesn't have to be orally), and create
+        space for everyone's input.</p></cell>
       </row>
       <row>
-        <cell>Using only serious or academic talk.</cell>
-        <cell>Mix humor, encouragement, and small personal shares to build connections.</cell>
+        <cell><p>Using only serious or academic talk.</p></cell>
+        <cell><p>Mix humor, encouragement, and small personal shares to build connections.</p></cell>
       </row>
     </tabular>
   </subsection>
