@@ -32,7 +32,12 @@
   if hs.len() > 0 { hs.last().body } else { none }
 }
 
-#set document(title: meta.title, author: meta.author)
+// Authors; an affiliation shared by all of them is shown once
+#let names = meta.authors.map(a => a.name)
+#let affiliations = meta.authors.map(a => a.affiliation).filter(a => a != "").dedup()
+#let shared-affiliation = meta.authors.all(a => a.affiliation == meta.authors.first().affiliation)
+
+#set document(title: meta.title, author: names)
 #set page(
   paper: "us-letter",
   margin: (x: 1in, top: 1in, bottom: 0.9in),
@@ -140,7 +145,7 @@
   #set par(justify: false)
   #block(width: 100%, height: 52%, fill: accent, inset: (x: 1in, top: 1.6in))[
     #set text(fill: white)
-    #text(10pt, weight: "bold", tracking: 0.15em, upper(meta.author))
+    #text(10pt, weight: "bold", tracking: 0.15em, upper(affiliations.join(" · ")))
     #v(0.8em)
     #text(34pt, weight: "bold", meta.title)
     #v(0.4em)
@@ -157,7 +162,20 @@
         #v(0.2em)
         #text(11.5pt, meta.abstract)
         #v(1.5em)
-        #text(9.5pt, fill: muted)[#meta.affiliation \ #meta.date]
+        #text(8.5pt, weight: "bold", fill: muted, tracking: 0.1em,
+          if names.len() == 1 { "AUTHOR" } else { "AUTHORS" })
+        #v(0.2em)
+        #for a in meta.authors [
+          #text(11pt, weight: "semibold", a.name) \
+          #if not shared-affiliation and a.affiliation != "" [
+            #text(9.5pt, fill: muted, a.affiliation) \
+          ]
+        ]
+        #v(0.6em)
+        #text(9.5pt, fill: muted)[
+          #if shared-affiliation and affiliations.len() > 0 [#affiliations.first() \ ]
+          #meta.date
+        ]
       ],
       image(meta.external + "/Diagram-Six-DimensionsCRT.png", width: 100%),
     )

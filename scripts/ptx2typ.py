@@ -310,14 +310,28 @@ class Converter:
 
 def front_matter(article, conv):
     fm = article.find("frontmatter")
-    author = fm.find("bibinfo/author")
     text = lambda e: conv.clean(e.xpath("string()")) if e is not None else ""
+
+    def check(el, allowed):
+        for child in el:
+            if child.tag not in allowed:
+                fail(child, "unsupported front matter element")
+
+    check(fm, ("bibinfo", "titlepage", "abstract"))
+    bib = fm.find("bibinfo")
+    check(bib, ("author", "date"))
+    authors = []
+    for author in bib.findall("author"):
+        check(author, ("personname", "institution"))
+        authors.append({
+            "name": text(author.find("personname")),
+            "affiliation": text(author.find("institution")),
+        })
     return {
         "title": text(article.find("title")),
         "subtitle": text(article.find("subtitle")),
-        "author": text(author.find("personname")),
-        "affiliation": text(author.find("institution")),
-        "date": text(fm.find("bibinfo/date")),
+        "authors": authors,
+        "date": text(bib.find("date")),
         "abstract": text(fm.find("abstract")),
     }
 
