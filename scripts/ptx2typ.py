@@ -1,8 +1,8 @@
 """Convert the PreTeXt source directly to Typst.
 
 Writes body.typ (the document body) and meta.json (title page data) to
-output/typst, next to main.typ (the styling template), then compiles
-output/typst/main.pdf.  Usage, from the project folder:
+output/typst, copies the styling template scripts/main.typ next to them,
+then compiles output/typst/main.pdf.  Usage, from the project folder:
 
     python3 scripts/ptx2typ.py      (macOS/Linux)
     py scripts\\ptx2typ.py           (Windows)
@@ -28,6 +28,7 @@ except ImportError:
 ROOT = Path(__file__).resolve().parents[1]
 MAIN = ROOT / "source" / "main.ptx"
 OUT = ROOT / "output" / "typst"
+TEMPLATE = Path(__file__).resolve().parent / "main.typ"
 XML_ID = "{http://www.w3.org/XML/1998/namespace}id"
 
 HEADING_LEVEL = {"section": 1, "subsection": 2, "subsubsection": 3, "paragraphs": 4}
@@ -346,9 +347,11 @@ def main():
         + "\n\n".join(body) + "\n")
     print(f"wrote {OUT.relative_to(ROOT)}/body.typ ({len(body)} blocks) and meta.json")
 
+    if not TEMPLATE.exists():
+        sys.exit(f"ptx2typ: no template at {TEMPLATE.relative_to(ROOT)}; not compiling")
+    # main.typ reads meta.json and body.typ by relative path, so it runs from OUT
     template = OUT / "main.typ"
-    if not template.exists():
-        sys.exit(f"ptx2typ: no template at {template.relative_to(ROOT)}; not compiling")
+    shutil.copyfile(TEMPLATE, template)
     typst = shutil.which("typst")
     if typst is None:
         sys.exit("ptx2typ: typst not found on PATH; not compiling")
